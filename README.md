@@ -1,3 +1,1 @@
-Small image (alpine based) for Open JDK
-
-Current Open JDK version: 8
+Run OneDrive as a docker container. Updated to use Ubuntu Groovy to support latest OneDrive version.
